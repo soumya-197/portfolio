@@ -10,7 +10,7 @@ const Projects = () => {
       </div>
       <div className=' mt-10 flex flex-wrap mx-28 gap-5 justify-center items-center'>
         <Card
-          img="solarsys.jpg"
+          img="/solarsys.jpg"
           h="Solar System Animation"
           skills="HTML | CSS | JavaScript "
           link='https://soumya-197.github.io/solarsystem.github.io/'
