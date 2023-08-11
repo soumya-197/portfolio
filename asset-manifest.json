@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.526da11a.css",
-    "main.js": "/portfolio/static/js/main.5202dcde.js",
+    "main.js": "/portfolio/static/js/main.b4f8b803.js",
     "static/media/gfg.png": "/portfolio/static/media/gfg.4460ef577090555349b4.png",
     "static/media/CodeChef (1).png": "/portfolio/static/media/CodeChef (1).5ce8c8a812ed18fce0eb.png",
     "static/media/linkedin.png": "/portfolio/static/media/linkedin.bf34d6877011977497d6.png",
@@ -10,10 +10,10 @@
     "static/media/profile2.jpg": "/portfolio/static/media/profile2.c40d279df2f9a809b3e9.jpg",
     "index.html": "/portfolio/index.html",
     "main.526da11a.css.map": "/portfolio/static/css/main.526da11a.css.map",
-    "main.5202dcde.js.map": "/portfolio/static/js/main.5202dcde.js.map"
+    "main.b4f8b803.js.map": "/portfolio/static/js/main.b4f8b803.js.map"
   },
   "entrypoints": [
     "static/css/main.526da11a.css",
-    "static/js/main.5202dcde.js"
+    "static/js/main.b4f8b803.js"
   ]
 }
