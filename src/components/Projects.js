@@ -10,21 +10,21 @@ const Projects = () => {
       </div>
       <div className=' mt-10 flex flex-wrap mx-28 gap-5 justify-center items-center'>
         <Card
-          img="solarsys.jpg"
+          img="https://tse1.mm.bing.net/th?id=OIP.tuS84JuUQ1BfBLsM1wm6qAHaFX&pid=Api&P=0&h=180"
           h="Solar System Animation"
           skills="HTML | CSS | JavaScript "
           link='https://soumya-197.github.io/solarsystem.github.io/'
           gitlink='https://github.com/soumya-197/solarsystem.github.io'
         />
         <Card
-          img="ems.jpg"
+          img="https://i0.wp.com/ednep.com/wp-content/uploads/2020/06/Employee-Management.png?w=860&ssl=1"
           h="Employee Management System"
           skills="HTML | CSS | JavaScript | PHP | MySQL"
           link="https://drive.google.com/file/d/1ZR5U35Z880TMS16LaNf2mOVyavWIjeUE/view"
           gitlink=''
         />
         <Card
-          img="organic.jpg"
+          img="https://www.wallpapers-for-phone.com/phone/strawberries-bucket-fruits.jpg"
           h="Organic"
           skills="HTML | CSS | JavaScript | PHP | MySQL | BootStrap"
           link="https://drive.google.com/file/d/1q8Gqyt6Wu2X1pyLyO9iIV2V8s7Z7XUAH/view"
