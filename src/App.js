@@ -25,12 +25,11 @@ function App() {
         <Contact/> */}
         <Routes>
           <Route>
-            <Route index element={<About/>}/>
-            <Route path="/about" element={<About/>}/>
+            <Route path="/portfolio/" element={<About/>}/>
           </Route>
-          <Route path="/projects" element={<Projects/>} />
-          <Route path="/contact" element={<Contact/>} />
-        </Routes>      
+          <Route path="/portfolio/projects" element={<Projects/>} />
+          <Route path="/portfolio/contact" element={<Contact/>} />
+        </Routes>         
     </div>
       </div>
     </div>
